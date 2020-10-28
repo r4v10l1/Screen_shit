@@ -1,0 +1,44 @@
+("           `-/oyhhddddhhyo/-`           ")
+("        -+ydhs+:-.````.-:+shdy+-        ")
+("     `/ydy/.                ./ydy/`     ")
+("    /hdo.         .++/:-``     .odh/    ")
+("  `sds.           .++oshhyo-`    .sds`  ")
+(" .hd+   `-+:`     `::-.`.:sdy:     +dh. ")
+("`yd+   :ydddh+`   -ssyhho- -sds`    +dy`")
+("/dy  `odddddddh.  `..`.:sds. +dy`    yd/")
+("yd/  .dddddddhs.  :yhho. +dy` yd+    /dy")
+("dd-   +ddddd/`      `+dy  hd: /dy    -dd")
+("hd:    +dddd:        `/:  -/` `/-    :dh")
+("odo     :hddd/`        ``            odo")
+(".dd-     .sdddy/.    .shyo-         -dd.")
+(" /dh.      :ydddhs+/+hddddds.      .hd/ ")
+("  /dh:      `-ohdddddddddddd+     :hd/  ")
+("    `/hds:`       `.:+os/.   `:sdy/`    ")
+("   -yds.       `-+yddddddds-    .sdy-   ")
+("      `:shhs/-`          `-/shhs:`      ")
+("         `-+shdhyssoossyhdhs+-`         ")
+
+
+
+(" /oo+      /oo+                                   +oo/      +oo+ ")
+(" -NMM+    -MMM+                                   +MMM-    +MMN: ")
+("  /MMN.  `mMMs                                     sMMm`  .NMM+  ")
+("   oMMh  sMMh`                                      hMMs  hMMs   ")
+("    yMM+:MMm`                                       `dMM:+MMh`   ")
+("    `dMNmMN-                                         .NMmNMm`    ")
+("     .mNNN:                                           :NNNN.     ")
+("      ````      ###############################        ````      ")
+("                ###############################                  ")
+
+
+def default_sleep1():
+    os.system(clear_command)
+    print()
+    print("█    █        █    █")
+    print(" █  █          █  █ ")
+    print("  ██            ██  ")
+    print("      ████████      ")
+    print()
+
+
+███████████████████████████████
